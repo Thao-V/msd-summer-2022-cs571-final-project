@@ -1,5 +1,5 @@
 # CS571 - Mobile Application Development
-## Final Project - Pet Records App
+## Final Project - Home Smart Device Management App
 ### Application specifications and requirements
 You will create a mobile application to help house owners to manage the smart devices in their house like Nest cameras, Google Home...
   
