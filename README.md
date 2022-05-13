@@ -7,7 +7,7 @@ House owners will have to sign up for a new account (using a unique email, phone
 1. **List of devices**
     * List of devices (name and installed date)
     * Owners is able to add/edit/delete/view a device
-    * A device contains name, brand, price and installed date. For example, device = {name: 'living room camera', brand: 'Nest', price: 100, date: new Date()}
+    * A device contains name, brand, price and installed date, user_id. For example, device = {name: 'living room camera', brand: 'Nest', price: 100, date: new Date(), user_id: <user_id>}
 2. **Daily Notes**
    * List of notes (header, date)
    * Owner can add/view a note
